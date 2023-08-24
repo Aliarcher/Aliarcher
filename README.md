@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋 -->
 ![Name](https://github.com/Aliarcher/Aliarcher/assets/53465519/b9c2c2f1-dd4d-4fc7-8873-80e75700e8d6)
 
 I'm experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Application development and Oracle Database development  with a demonstrated history of working in the information technology and services industry. Interested in Electronic , Aerospace engineering, 4th Industrial Revolution (4IR) technologies , Neuromorphic and Quantum computing. Skilled in java Enterprise Edition, Spring Framework ,Hibernate ORM Framework ,Python, Exchange, Skype for Business and etc.
