@@ -6,4 +6,8 @@ I'm experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Appli
 * 🎓  Master of Science in Artificial Intelligence and Robotics from University of Eyvanekey. @ [The University of Eyvankey](https://www.eyc.ac.ir/).
 * 💡 Open to collaborating
 ### 🖥️ Open-Source Projects
-
+* Medical-Analysis (Under Development)
+* Financial-Analysis (Under Development)
+* Computer Vision (Not Started)
+* Natural-Language-Processing (Under Development)
+* Music-Audio-Speech-Analysis (Not Started)
