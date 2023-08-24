@@ -39,8 +39,8 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
-</p>
--->
+</p> -->
+
 I'm experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Application development and Oracle Database development  with a demonstrated history of working in the information technology and services industry. Interested in Electronic , Aerospace engineering, 4th Industrial Revolution (4IR) technologies , Neuromorphic and Quantum computing. Skilled in java Enterprise Edition, Spring Framework ,Hibernate ORM Framework ,Python, Exchange, Skype for Business and etc.
 
 * 🎓  Master of Science in Artificial Intelligence and Robotics from University of Eyvanekey. @ [The University of Eyvankey](https://www.eyc.ac.ir/).
