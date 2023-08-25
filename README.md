@@ -6,9 +6,9 @@ I'm experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Appli
 * 🎓  Master of Science in Artificial Intelligence and Robotics from University of Eyvanekey. @ [The University of Eyvankey](https://www.eyc.ac.ir/).
 * 💡 Open to collaborating
 ### 🖥️ Open-Source Projects
-* Medical-Analysis (Under Development)
-* Financial-Analysis (Under Development)
+* Medical-Analysis (Under Development) @[Medical Analysis](https://github.com/Aliarcher/Medical-Analysis)
+* Financial-Analysis (Under Development) @[Financial Analysis](https://github.com/Aliarcher/Financial-Analysis)
 * Remote Sensing (Not Started)
 * Computer Vision (Not Started)
-* Natural-Language-Processing (Under Development)
-* Music-Audio-Speech-Analysis (Not Started)
+* Natural-Language-Processing (Under Development) @[Natural Language Processing](https://github.com/Aliarcher/Natural-Language-Processing)
+* Music-Audio-Speech-Analysis (Not Started)  @[Music, Audio and Speech Analysis](https://github.com/Aliarcher/Music-Audio-Speech-Analysis)
