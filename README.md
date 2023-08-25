@@ -8,6 +8,7 @@ I'm experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Appli
 ### 🖥️ Open-Source Projects
 * Medical-Analysis (Under Development)
 * Financial-Analysis (Under Development)
+* Remote Sensing (Not Started)
 * Computer Vision (Not Started)
 * Natural-Language-Processing (Under Development)
 * Music-Audio-Speech-Analysis (Not Started)
