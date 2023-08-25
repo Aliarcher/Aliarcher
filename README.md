@@ -9,6 +9,7 @@ I'm experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Appli
 * [Medical Analysis](https://github.com/Aliarcher/Medical-Analysis) (Under Development)
 * [Financial Analysis](https://github.com/Aliarcher/Financial-Analysis) (Under Development)
 * [Remote Sensing](https://github.com/Aliarcher/Remote-Sensing) (Not Started)
+* Security Intelligence (Not Started)
 * [Computer Vision](https://github.com/Aliarcher/Computer-Vision) (Not Started)
 * [Natural Language Processing](https://github.com/Aliarcher/Natural-Language-Processing) (Under Development)
 * [Music, Audio and Speech Analysis](https://github.com/Aliarcher/Music-Audio-Speech-Analysis) (Not Started)  
