@@ -6,14 +6,14 @@ experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 * 🎓  Master of Science in Artificial Intelligence and Robotics from [University of Eyvanekey](https://www.eyc.ac.ir/).
 * 💡 Open to collaborating
 ### 🖥️ Open-Source Projects
-#### AI and Automation
-  * [Computer Vision](https://github.com/Aliarcher/Computer-Vision) (Under Development)
-  * [Natural Language Processing](https://github.com/Aliarcher/Natural-Language-Processing) (Under Development)
-  * [Music, Audio and Speech Analysis](https://github.com/Aliarcher/Music-Audio-Speech-Analysis) (Not Started)  
-  * [Medical Analysis](https://github.com/Aliarcher/Medical-Analysis) (Under Development)
-  * [Financial Analysis](https://github.com/Aliarcher/Financial-Analysis) (Under Development)
-  * [Remote Sensing](https://github.com/Aliarcher/Remote-Sensing) (Not Started)
-  * [AI in Travel and Transport](https://github.com/Aliarcher/AI-in-Travel-and-Transport). (Not Started)
-  * [Automated Threat Detection](https://github.com/Aliarcher/Automated-Threat-Detection). (Not Started)
-#### Software Engineering
-  *...
+ #### AI and Automation
+   * [Computer Vision](https://github.com/Aliarcher/Computer-Vision) (Under Development)
+   * [Natural Language Processing](https://github.com/Aliarcher/Natural-Language-Processing) (Under Development)
+   * [Music, Audio and Speech Analysis](https://github.com/Aliarcher/Music-Audio-Speech-Analysis) (Not Started)  
+   * [Medical Analysis](https://github.com/Aliarcher/Medical-Analysis) (Under Development)
+   * [Financial Analysis](https://github.com/Aliarcher/Financial-Analysis) (Under Development)
+   * [Remote Sensing](https://github.com/Aliarcher/Remote-Sensing) (Not Started)
+   * [AI in Travel and Transport](https://github.com/Aliarcher/AI-in-Travel-and-Transport). (Not Started)
+   * [Automated Threat Detection](https://github.com/Aliarcher/Automated-Threat-Detection). (Not Started)
+ #### Software Engineering
+   *...
