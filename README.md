@@ -7,13 +7,15 @@ experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 * 💡 Open to collaborating
 ### 🖥️ Open-Source Projects
  #### AI and Automation
-   * [Computer Vision](https://github.com/Aliarcher/Computer-Vision) (Under Development)
-   * [Natural Language Processing](https://github.com/Aliarcher/Natural-Language-Processing) (Under Development)
-   * [Music, Audio and Speech Analysis](https://github.com/Aliarcher/Music-Audio-Speech-Analysis) (Under Development)  
-   * [Medical Analysis](https://github.com/Aliarcher/Medical-Analysis) (Under Development)
-   * [Financial Analysis](https://github.com/Aliarcher/Financial-Analysis) (Under Development)
-   * [Remote Sensing](https://github.com/Aliarcher/Remote-Sensing) (Not Started)
-   * [AI in Travel and Transport](https://github.com/Aliarcher/AI-in-Travel-and-Transport). (Not Started)
-   * [Automated Threat Detection](https://github.com/Aliarcher/Automated-Threat-Detection). (Not Started)
+   * Base:
+    * [Computer Vision](https://github.com/Aliarcher/Computer-Vision) (Under Development)
+    * [Natural Language Processing](https://github.com/Aliarcher/Natural-Language-Processing) (Under Development)
+    * [Music, Audio and Speech Analysis](https://github.com/Aliarcher/Music-Audio-Speech-Analysis) (Under Development)
+   * Usecases:    
+    * [Medical Analysis](https://github.com/Aliarcher/Medical-Analysis) (Under Development)
+    * [Financial Analysis](https://github.com/Aliarcher/Financial-Analysis) (Under Development)
+    * [Remote Sensing](https://github.com/Aliarcher/Remote-Sensing) (Not Started)
+    * [AI in Travel and Transport](https://github.com/Aliarcher/AI-in-Travel-and-Transport). (Not Started)
+    * [Automated Threat Detection](https://github.com/Aliarcher/Automated-Threat-Detection). (Not Started)
  #### Software Engineering
    *...
