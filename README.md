@@ -11,6 +11,7 @@ experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * [Computer Vision](https://github.com/Aliarcher/Computer-Vision) (Under Development)
    * [Natural Language Processing](https://github.com/Aliarcher/Natural-Language-Processing) (Under Development)
    * [Music, Audio and Speech Analysis](https://github.com/Aliarcher/Music-Audio-Speech-Analysis) (Under Development)
+   * [Reinforcement Learning](https://github.com/Aliarcher/Reinforcement-Learning) (Not Started)
    ##### Usecases:    
    * [Medical Analysis](https://github.com/Aliarcher/Medical-Analysis) (Under Development)
    * [Financial Analysis](https://github.com/Aliarcher/Financial-Analysis) (Under Development)
