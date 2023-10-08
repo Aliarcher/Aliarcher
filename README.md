@@ -6,6 +6,9 @@ experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 * 🎓  Master of Science in Artificial Intelligence and Robotics from [University of Eyvanekey](https://www.eyc.ac.ir/).
 * 💡 Open to collaborating
 ### 🖥️ Open-Source Projects
+
+https://github.com/Aliarcher/Aliarcher/assets/53465519/39ebc252-3e5e-47e1-9e03-8f36e0ab9fed
+
  #### AI and Automation
    ##### Base:
    * [Computer Vision](https://github.com/Aliarcher/Computer-Vision) (Under Development)
@@ -24,6 +27,4 @@ experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * ...
    ##### Usecases:
    *...
-   
-https://github.com/Aliarcher/Aliarcher/assets/53465519/41edca29-2208-4ca1-9f84-f5a714f1e89d
 
