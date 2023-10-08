@@ -24,3 +24,6 @@ experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * ...
    ##### Usecases:
    *...
+   
+https://github.com/Aliarcher/Aliarcher/assets/53465519/41edca29-2208-4ca1-9f84-f5a714f1e89d
+
