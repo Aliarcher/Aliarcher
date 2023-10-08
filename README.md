@@ -7,7 +7,7 @@ experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 * 💡 Open to collaborating
 ### 🖥️ Open-Source Projects
 
-[]https://github.com/Aliarcher/Aliarcher/assets/53465519/39ebc252-3e5e-47e1-9e03-8f36e0ab9fed
+[](https://github.com/Aliarcher/Aliarcher/assets/53465519/39ebc252-3e5e-47e1-9e03-8f36e0ab9fed)
 
  #### AI and Automation
    ##### Base:
