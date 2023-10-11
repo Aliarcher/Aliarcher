@@ -14,6 +14,7 @@ https://github.com/Aliarcher/Aliarcher/assets/53465519/39ebc252-3e5e-47e1-9e03-8
    * [Computer Vision](https://github.com/Aliarcher/Computer-Vision) (Under Development)
    * [Natural Language Processing](https://github.com/Aliarcher/Natural-Language-Processing) (Under Development)
    * [Music, Audio and Speech Analysis](https://github.com/Aliarcher/Music-Audio-Speech-Analysis) (Under Development)
+   * [Multi Modal Analysis](https://github.com/Aliarcher/Multi-Modal-Analysis) (Under Development)
    * [Reinforcement Learning](https://github.com/Aliarcher/Reinforcement-Learning) (Not Started)
    ##### Usecases:    
    * [Medical Analysis](https://github.com/Aliarcher/Medical-Analysis) (Under Development)
