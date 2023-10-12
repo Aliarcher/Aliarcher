@@ -27,5 +27,6 @@ https://github.com/Aliarcher/Aliarcher/assets/53465519/39ebc252-3e5e-47e1-9e03-8
    * [Authentication-Authorization](https://github.com/Aliarcher/Authentication-Authorization) (Under Development)
    * ...
    ##### Usecases:
+   *[Employee Crud Application](https://github.com/Aliarcher/Applications) (Under Development)
    *...
 
