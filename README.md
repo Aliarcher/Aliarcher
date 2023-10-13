@@ -26,6 +26,6 @@ experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * [Authentication-Authorization](https://github.com/Aliarcher/Authentication-Authorization) (Under Development)
    * ...
    ##### Usecases:
-   *[Employee Crud Application](https://github.com/Aliarcher/Applications) (Under Development)
+   * [Employee Crud Application](https://github.com/Aliarcher/Applications) (Under Development)
    *...
 
