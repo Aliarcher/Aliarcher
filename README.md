@@ -18,7 +18,7 @@ experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    ##### Usecases:    
    * [Medical Analysis](https://github.com/Aliarcher/Medical-Analysis) (Under Development)
    * [Financial Analysis](https://github.com/Aliarcher/Financial-Analysis) (Under Development)
-   * [Remote Sensing](https://github.com/Aliarcher/Remote-Sensing) (Not Started)
+   * [Remote Sensing](https://github.com/Aliarcher/Remote-Sensing) (Under Development)
    * [AI in Travel and Transport](https://github.com/Aliarcher/AI-in-Travel-and-Transport). (Not Started)
    * [Automated Threat Detection](https://github.com/Aliarcher/Automated-Threat-Detection). (Not Started)
  #### Software Engineering
