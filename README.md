@@ -23,10 +23,10 @@ experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * [Automated Threat Detection](https://github.com/Aliarcher/Automated-Threat-Detection). (Not Started)
  #### Software Engineering
    ##### Backend:
-        ###### Base:
+        Base:
         * [Authentication-Authorization](https://github.com/Aliarcher/Authentication-Authorization) (Under Development)
         * ...
-        ###### Usecases:
+        Usecases:
         * [Employee Crud Application](https://github.com/Aliarcher/Applications) (Under Development)
         *...
    ##### Frontend:
