@@ -35,4 +35,4 @@ experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
         * ...
 #### DevOps and MLOps
    ##### MLOps:
-         * [prometheus-grafana-stack](https://github.com/Aliarcher/DevOps)
+   * [prometheus-grafana-stack](https://github.com/Aliarcher/DevOps)
