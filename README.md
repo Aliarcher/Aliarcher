@@ -10,6 +10,7 @@ experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 
  #### AI and Automation
    ##### Base:
+   * [Machine Learning](https://github.com/Aliarcher/Machine-learning) (Under Development)
    * [Computer Vision](https://github.com/Aliarcher/Computer-Vision) (Under Development)
    * [Natural Language Processing](https://github.com/Aliarcher/Natural-Language-Processing) (Under Development)
    * [Music, Audio and Speech Analysis](https://github.com/Aliarcher/Music-Audio-Speech-Analysis) (Under Development)
