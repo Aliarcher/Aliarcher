@@ -34,7 +34,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * [Travel-ticket-online-purchase Application](https://github.com/Aliarcher/Travel-ticket-online-purchase-system)
    * ...
    ##### Frontend:
-   * [Text show Timer](https://github.com/Aliarcher/Frontend)
+   * [Text-Timer](https://github.com/Aliarcher/Text-Timer)
 #### DevOps and MLOps
    ##### DevOps:
    * [prometheus-grafana-stack](https://github.com/Aliarcher/DevOps)
