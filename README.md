@@ -16,6 +16,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * [Music, Audio and Speech Analysis](https://github.com/Aliarcher/Music-Audio-Speech-Analysis) (Under Development)
    * [Multi Modal Analysis](https://github.com/Aliarcher/Multi-Modal-Analysis) (Under Development)
    * [Reinforcement Learning](https://github.com/Aliarcher/Reinforcement-Learning) (Not Started)
+   * [Federation Learning](https://github.com/Aliarcher/Federation-Learning) (Not Started)
    ##### Usecases:    
    * [Medical Analysis](https://github.com/Aliarcher/Medical-Analysis) (Under Development)
    * [Financial Analysis](https://github.com/Aliarcher/Financial-Analysis) (Under Development)
