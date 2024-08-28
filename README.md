@@ -36,6 +36,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * ...
    ##### Frontend:
    * [Text-Timer](https://github.com/Aliarcher/Text-Timer)
+   * [Snake-2D-Game](https://github.com/Aliarcher/Snake-2D-Game/tree/main)
 #### DevOps and MLOps
    ##### DevOps:
    * [prometheus-grafana-stack](https://github.com/Aliarcher/DevOps)
