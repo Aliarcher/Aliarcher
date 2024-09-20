@@ -85,3 +85,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
     </td>
   </tr>
 </table>
+
+## My ORCID
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0002--1825--0097-green.svg)](https://orcid.org/0009-0000-0122-678X)
