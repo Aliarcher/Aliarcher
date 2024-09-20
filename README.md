@@ -43,4 +43,15 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * [prometheus-grafana-stack](https://github.com/Aliarcher/DevOps)
    ##### MLOps:
    * ...
+
+## Activity Overview
+
+| **Metric**         | **Count**    |
+|--------------------|--------------|
+| Commits            | ![Commits](https://img.shields.io/github/commit-activity/y/Aliarcher/repo) |
+| Code Reviews       | [Details in Pull Requests](https://github.com/Aliarcher/repo/pulls) |
+| Open Issues        | ![Issues](https://img.shields.io/github/issues/Aliarcher/repo) |
+| Closed Issues      | ![Closed Issues](https://img.shields.io/github/issues-closed/Aliarcher/repo) |
+| Pull Requests      | ![Pull Requests](https://img.shields.io/github/issues-pr/Aliarcher/repo) |
+| Merged Pull Requests | ![Merged PRs](https://img.shields.io/github/issues-pr-closed/Aliarcher/repo) |
      
