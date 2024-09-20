@@ -54,4 +54,9 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 | Closed Issues      | ![Closed Issues](https://img.shields.io/github/issues-closed/Aliarcher/repo) |
 | Pull Requests      | ![Pull Requests](https://img.shields.io/github/issues-pr/Aliarcher/repo) |
 | Merged Pull Requests | ![Merged PRs](https://img.shields.io/github/issues-pr-closed/Aliarcher/repo) |
+
+
+## Contribution Activity
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=react-dark)
      
