@@ -49,7 +49,6 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 | **Metric**           | **Count**                                                                            |
 |----------------------|--------------------------------------------------------------------------------------|
 | Total Commits        | ![Commits](https://img.shields.io/github/commit-activity/y/Aliarcher)                |
-| Total Repositories   | ![Total Repos](https://img.shields.io/github/search/Aliarcher/repos?type=Repositories) |
 | Open Issues          | ![Open Issues](https://img.shields.io/github/issues/Aliarcher)                       |
 | Closed Issues        | ![Closed Issues](https://img.shields.io/github/issues-closed/Aliarcher)              |
 | Open Pull Requests   | ![Open PRs](https://img.shields.io/github/issues-pr/Aliarcher)                       |
