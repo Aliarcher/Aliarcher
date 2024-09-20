@@ -72,12 +72,16 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
       </table>
     </td>
   </tr>
+  <tr>
+    <td>
+      <h3>Contribution Streak</h3>
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=Aliarcher&theme=radical" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td>
+      <h3>Languages Used</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aliarcher&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+  </tr>
 </table>
-
-## Contribution Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aliarcher&theme=radical)](https://git.io/streak-stats)
-
-## Languages Used
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliarcher&layout=compact&theme=radical)
