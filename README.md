@@ -58,9 +58,9 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 
 ![Aliarcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aliarcher&show_icons=true&theme=radical)
 
-## Contribution Activity
+## Contribution Streak
 
-![Aliarcher's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aliarcher&theme=react-dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Aliarcher&theme=radical)](https://git.io/streak-stats)
 
 ## Languages Used
 
