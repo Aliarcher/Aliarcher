@@ -46,13 +46,14 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 
 ## Activity Overview
 
-| **Metric**           | **Count**                                                                            |
-|----------------------|--------------------------------------------------------------------------------------|
-| Total Commits        | ![Commits](https://img.shields.io/github/commit-activity/y/Aliarcher)                |
-| Open Issues          | ![Open Issues](https://img.shields.io/github/issues/Aliarcher)                       |
-| Closed Issues        | ![Closed Issues](https://img.shields.io/github/issues-closed/Aliarcher)              |
-| Open Pull Requests   | ![Open PRs](https://img.shields.io/github/issues-pr/Aliarcher)                       |
-| Merged Pull Requests | ![Merged PRs](https://img.shields.io/github/issues-pr-closed/Aliarcher)              |
+| **Metric**           | **Count**                                                                                                                                 |
+|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+| Total Commits        | ![Commits](https://img.shields.io/github/commit-activity/total/Aliarcher)                                                                  |
+| Open Issues          | ![Open Issues](https://img.shields.io/github/search/Aliarcher/Aliarcher/issues)                                                           |
+| Closed Issues        | ![Closed Issues](https://img.shields.io/github/search/Aliarcher/Aliarcher/issues?q=is%3Aissue+is%3Aclosed)                                 |
+| Open Pull Requests   | ![Open PRs](https://img.shields.io/github/search/Aliarcher/Aliarcher/pulls)                                                                |
+| Merged Pull Requests | ![Merged PRs](https://img.shields.io/github/issues-pr-closed/Aliarcher)                                                                    |
+
 
 ## GitHub Stats
 
