@@ -46,17 +46,23 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 
 ## Activity Overview
 
-| **Metric**         | **Count**    |
-|--------------------|--------------|
-| Commits            | ![Commits](https://img.shields.io/github/commit-activity/y/Aliarcher/repo) |
-| Code Reviews       | [Details in Pull Requests](https://github.com/Aliarcher/repo/pulls) |
-| Open Issues        | ![Issues](https://img.shields.io/github/issues/Aliarcher/repo) |
-| Closed Issues      | ![Closed Issues](https://img.shields.io/github/issues-closed/Aliarcher/repo) |
-| Pull Requests      | ![Pull Requests](https://img.shields.io/github/issues-pr/Aliarcher/repo) |
-| Merged Pull Requests | ![Merged PRs](https://img.shields.io/github/issues-pr-closed/Aliarcher/repo) |
+| **Metric**           | **Count**                                                                            |
+|----------------------|--------------------------------------------------------------------------------------|
+| Total Commits        | ![Commits](https://img.shields.io/github/commit-activity/y/Aliarcher)                |
+| Total Repositories   | ![Total Repos](https://img.shields.io/github/search/Aliarcher/repos?type=Repositories) |
+| Open Issues          | ![Open Issues](https://img.shields.io/github/issues/Aliarcher)                       |
+| Closed Issues        | ![Closed Issues](https://img.shields.io/github/issues-closed/Aliarcher)              |
+| Open Pull Requests   | ![Open PRs](https://img.shields.io/github/issues-pr/Aliarcher)                       |
+| Merged Pull Requests | ![Merged PRs](https://img.shields.io/github/issues-pr-closed/Aliarcher)              |
 
+## GitHub Stats
+
+![Aliarcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aliarcher&show_icons=true&theme=radical)
 
 ## Contribution Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aliarcher&theme=react-dark)
-     
+![Aliarcher's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aliarcher&theme=react-dark)
+
+## Languages Used
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aliarcher&layout=compact&theme=radical)
