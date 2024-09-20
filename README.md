@@ -46,13 +46,33 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 
 ## GitHub Stats
 
-![Aliarcher's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aliarcher&show_icons=true&theme=radical)
-
-| **Metric**           | **Count**                                                                                                                                 |
-|----------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
-| Open Issues          | ![Open Issues](https://img.shields.io/github/search/Aliarcher/Aliarcher/issues)                                                           |
-| Closed Issues        | ![Closed Issues](https://img.shields.io/github/search/Aliarcher/Aliarcher/issues?q=is%3Aissue+is%3Aclosed)                                 |
-| Open Pull Requests   | ![Open PRs](https://img.shields.io/github/search/Aliarcher/Aliarcher/pulls)                                                                |
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Aliarcher&show_icons=true&theme=radical" alt="Aliarcher's GitHub Stats" />
+    </td>
+    <td>
+      <table>
+        <tr>
+          <th>Metric</th>
+          <th>Count</th>
+        </tr>
+        <tr>
+          <td>Open Issues</td>
+          <td><img src="https://img.shields.io/github/search/Aliarcher/Aliarcher/issues" alt="Open Issues" /></td>
+        </tr>
+        <tr>
+          <td>Closed Issues</td>
+          <td><img src="https://img.shields.io/github/search/Aliarcher/Aliarcher/issues?q=is%3Aissue+is%3Aclosed" alt="Closed Issues" /></td>
+        </tr>
+        <tr>
+          <td>Open Pull Requests</td>
+          <td><img src="https://img.shields.io/github/search/Aliarcher/Aliarcher/pulls" alt="Open PRs" /></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ## Contribution Streak
 
