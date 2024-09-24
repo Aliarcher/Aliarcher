@@ -40,6 +40,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * [Forked-Slingshot-2D-Game](https://github.com/Aliarcher/Forked-Slingshot-2D-Game)
    * [Breakout-2D-Game](https://github.com/Aliarcher/breakout-2D-game)
    * [Mario-2D-Game](https://github.com/Aliarcher/Mario-2D-Game)
+   * [Whack-A-Mole-2D-Game](https://github.com/Aliarcher/whack-a-mole-2D-Game)
 #### DevOps and MLOps
    ##### DevOps:
    * [prometheus-grafana-stack](https://github.com/Aliarcher/DevOps)
