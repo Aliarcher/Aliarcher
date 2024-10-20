@@ -44,10 +44,10 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * [memmory-wall-2D-Game](https://github.com/Aliarcher/memmory-wall-2D-Game)
    * [pizza-builder-2D-Game](https://github.com/Aliarcher/pizza-builder-2D-Game)
 #### DevOps and MLOps
-   ##### DevOps:
+   ##### Docker:
    * [prometheus-grafana-stack](https://github.com/Aliarcher/DevOps)
    * [Lable-studio](https://github.com/Aliarcher/label-studio)
-   ##### MLOps:
+   ##### Kubernates:
    * ...
 
 ## GitHub Stats
