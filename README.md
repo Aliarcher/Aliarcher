@@ -48,6 +48,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * [prometheus-grafana-stack](https://github.com/Aliarcher/DevOps)
    * [Lable-studio](https://github.com/Aliarcher/label-studio)
    * [Neo4J](https://github.com/Aliarcher/Graph-Database)
+   * [Jupyter-Server](https://github.com/Aliarcher/Jupyter-Server)
    ##### Kubernates:
    * ...
 
