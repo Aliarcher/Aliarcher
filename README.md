@@ -43,6 +43,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * [Whack-A-Mole-2D-Game](https://github.com/Aliarcher/whack-a-mole-2D-Game)
    * [memmory-wall-2D-Game](https://github.com/Aliarcher/memmory-wall-2D-Game)
    * [pizza-builder-2D-Game](https://github.com/Aliarcher/pizza-builder-2D-Game)
+   * [Sonic-Runner](https://github.com/Aliarcher/Sonic-Runner)
 #### DevOps and MLOps
    ##### Docker:
    * [prometheus-grafana-stack](https://github.com/Aliarcher/DevOps)
