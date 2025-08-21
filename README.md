@@ -27,6 +27,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    ##### Backend:
    Base:
    * [Data Structure and Algorithm Design](https://github.com/Aliarcher/Data-Structure-Algorithm-Design) (Under Development)
+   * [Design Patterns](https://github.com/Aliarcher/Design-Patterns)
    * ...
    * 
    Usecases:
