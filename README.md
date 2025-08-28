@@ -46,6 +46,8 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    * [pizza-builder-2D-Game](https://github.com/Aliarcher/pizza-builder-2D-Game)
    * [Sonic-Runner](https://github.com/Aliarcher/Sonic-Runner)
 #### DevOps and MLOps
+   ##### Linux:
+   * [Linux Notes](https://github.com/Aliarcher/Linux-LPIC-Notes)
    ##### Docker:
    * [prometheus-grafana-stack](https://github.com/Aliarcher/DevOps)
    * [Lable-studio](https://github.com/Aliarcher/label-studio)
