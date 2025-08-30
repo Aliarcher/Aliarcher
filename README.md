@@ -9,7 +9,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 
 
  #### AI and Automation
-   ##### Base:
+
    <table>
      <tr>
         <th colspan="4" align="center" style="text-align:center; font-size:16px;">Base</th>
