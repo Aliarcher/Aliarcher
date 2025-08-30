@@ -20,7 +20,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/Computer-Vision">
-           <img src="https://img.icons8.com/color/200/computer-vision.png" alt="Computer Vision"/>
+           <img src="https://img.icons8.com/fluency/200/eye.png" alt="Computer Vision"/>
            <br><b>Computer Vision</b>
          </a>
        </td>
