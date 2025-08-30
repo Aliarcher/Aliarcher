@@ -132,8 +132,6 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
          <!-- Placeholder for future Base -->
        </td>
      </tr>
-   
-     <!-- Backend Usecases Header -->
      <tr>
        <th colspan="4" align="center" style="text-align:center; font-size:16px;">Usecases</th>
      </tr>
@@ -161,6 +159,8 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
        </td>
      </tr>
    </table>
+
+   
    Base:
    * [Data Structure and Algorithm Design](https://github.com/Aliarcher/Data-Structure-Algorithm-Design) (Under Development)
    * [Design Patterns](https://github.com/Aliarcher/Design-Patterns)
