@@ -63,6 +63,40 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
          </a>
        </td>
     </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Aliarcher/Medical-Analysis">
+          <img src="https://img.icons8.com/fluency/200/hospital-room.png" width="150" alt="Medical Analysis"/><br>
+          <sub><b>Medical Analysis</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Aliarcher/Financial-Analysis">
+          <img src="https://img.icons8.com/fluency/200/financial.png" width="150" alt="Financial Analysis"/><br>
+          <sub><b>Financial Analysis</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Aliarcher/Remote-Sensing">
+          <img src="https://img.icons8.com/fluency/200/satellite.png" width="150" alt="Remote Sensing"/><br>
+          <sub><b>Remote Sensing</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Aliarcher/AI-in-Travel-and-Transport">
+          <img src="https://img.icons8.com/fluency/200/train.png" width="150" alt="AI in Travel"/><br>
+          <sub><b>AI in Travel & Transport</b></sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/Aliarcher/Automated-Threat-Detection">
+          <img src="https://img.icons8.com/fluency/200/security-checked.png" width="150" alt="Automated Threat Detection"/><br>
+          <sub><b>Automated Threat Detection</b></sub>
+        </a>
+      </td>
+    </tr>
    </table>
 
    ##### Usecases:    
