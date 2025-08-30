@@ -64,15 +64,6 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
        </td>
     </tr>
    </table>
-   
-   * [Machine Learning](https://github.com/Aliarcher/Machine-learning) 
-   * [Computer Vision](https://github.com/Aliarcher/Computer-Vision) 
-   * [Natural Language Processing](https://github.com/Aliarcher/Natural-Language-Processing) 
-   * [Music, Audio and Speech Analysis](https://github.com/Aliarcher/Music-Audio-Speech-Analysis) 
-   * [Multi Modal Analysis](https://github.com/Aliarcher/Multi-Modal-Analysis) 
-   * [Reinforcement Learning](https://github.com/Aliarcher/Reinforcement-Learning) (Not Started)
-   * [Federation Learning](https://github.com/Aliarcher/Federation-Learning) (Not Started)
-   * [System-2 in AI](https://github.com/Aliarcher/System-2-In-AI) (Under Development)
    ##### Usecases:    
    * [Medical Analysis](https://github.com/Aliarcher/Medical-Analysis) (Under Development)
    * [Financial Analysis](https://github.com/Aliarcher/Financial-Analysis) (Under Development)
