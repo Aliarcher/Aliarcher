@@ -115,13 +115,13 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
      <tr>
        <td align="center">
          <a href="https://github.com/Aliarcher/Data-Structure-Algorithm-Design">
-           <img src="https://img.icons8.com/fluency/200/code-file.png" width="150" alt="Data Structure & Algorithms"/><br>
+           <img src="https://miro.medium.com/v2/da:true/resize:fit:800/0*tVerHf4MknjC4XiD" width="150" alt="Data Structure & Algorithms"/><br>
            <b>Data Structure & Algorithms</b>
          </a>
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/Design-Patterns">
-           <img src="https://img.icons8.com/fluency/200/code-file.png" width="150" alt="Design Patterns"/><br>
+           <img src="https://miro.medium.com/v2/da:true/resize:fit:800/0*tVerHf4MknjC4XiD" width="150" alt="Design Patterns"/><br>
            <b>Design Patterns</b>
          </a>
        </td>
