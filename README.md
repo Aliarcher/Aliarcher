@@ -12,6 +12,9 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    ##### Base:
    <table>
      <tr>
+        <th colspan="4" align="center" style="text-align:center; font-size:16px;">Base</th>
+     </tr>
+     <tr>
        <td align="center">
          <a href="https://github.com/Aliarcher/Machine-learning">
            <img src="https://img.icons8.com/fluency/200/artificial-intelligence.png" width="150" alt="Machine Learning"/>
@@ -64,6 +67,9 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
        </td>
     </tr>
     <tr>
+       <th colspan="4" align="center" style="text-align:center; font-size:16px;">Usecases</th>
+    </tr>
+    <tr>
       <td align="center">
         <a href="https://github.com/Aliarcher/Medical-Analysis">
           <img src="https://cdn-icons-png.flaticon.com/512/7054/7054227.png" width="150" alt="Medical Analysis"/><br>
@@ -98,13 +104,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
       </td>
     </tr>
    </table>
-
-   ##### Usecases:    
-   * [Medical Analysis](https://github.com/Aliarcher/Medical-Analysis) (Under Development)
-   * [Financial Analysis](https://github.com/Aliarcher/Financial-Analysis) (Under Development)
-   * [Remote Sensing](https://github.com/Aliarcher/Remote-Sensing) (Under Development)
-   * [AI in Travel and Transport](https://github.com/Aliarcher/AI-in-Travel-and-Transport). (Not Started)
-   * [Automated Threat Detection](https://github.com/Aliarcher/Automated-Threat-Detection). (Not Started)
+   
  #### Software Engineering
    ##### Backend:
    Base:
