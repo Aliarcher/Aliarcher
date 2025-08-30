@@ -10,16 +10,34 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 
  #### AI and Automation
    ##### Base:
-   
-   <p align="center">
-     <a href="https://github.com/Aliarcher/Machine-learning">
-       <img src="https://img.icons8.com/fluency/240/artificial-intelligence.png" width="200" alt="Machine Learning"/>
-     </a>
-  
-     <a href="https://github.com/Aliarcher/Computer-Vision">
-       <img src="https://img.icons8.com/color/240/computer-vision.png" width="200" alt="Computer Vision"/>
-     </a>
-   </p>
+   <table>
+     <tr>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Machine-learning">
+           <img src="https://img.icons8.com/fluency/200/artificial-intelligence.png" alt="Machine Learning"/>
+           <br><b>Machine Learning</b>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Computer-Vision">
+           <img src="https://img.icons8.com/color/200/computer-vision.png" alt="Computer Vision"/>
+           <br><b>Computer Vision</b>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Natural-Language-Processing">
+           <img src="https://img.icons8.com/fluency/200/chatbot.png" alt="NLP"/>
+           <br><b>Natural Language Processing</b>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Music-Audio-Speech-Analysis">
+           <img src="https://img.icons8.com/fluency/200/microphone.png" alt="Music/Audio"/>
+           <br><b>Music & Speech Analysis</b>
+         </a>
+       </td>
+     </tr>
+   </table>
    
    * [Machine Learning](https://github.com/Aliarcher/Machine-learning) 
    * [Computer Vision](https://github.com/Aliarcher/Computer-Vision) 
