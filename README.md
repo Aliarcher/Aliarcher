@@ -14,25 +14,25 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
      <tr>
        <td align="center">
          <a href="https://github.com/Aliarcher/Machine-learning">
-           <img src="https://img.icons8.com/fluency/200/artificial-intelligence.png" alt="Machine Learning"/>
+           <img src="https://img.icons8.com/fluency/200/artificial-intelligence.png" width="150" alt="Machine Learning"/>
            <br><b>Machine Learning</b>
          </a>
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/Computer-Vision">
-           <img src="https://static.vecteezy.com/system/resources/previews/023/752/816/non_2x/computer-vision-icon-in-illustration-vector.jpg" width="200" height="200" alt="Computer Vision"/>
+           <img src="https://static.vecteezy.com/system/resources/previews/023/752/816/non_2x/computer-vision-icon-in-illustration-vector.jpg" width="150" alt="Computer Vision"/>
            <br><b>Computer Vision</b>
          </a>
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/Natural-Language-Processing">
-           <img src="https://img.icons8.com/fluency/200/chatbot.png" alt="NLP"/>
+           <img src="https://img.icons8.com/fluency/200/chatbot.png" width="150" alt="NLP"/>
            <br><b>Natural Language Processing</b>
          </a>
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/Music-Audio-Speech-Analysis">
-           <img src="https://img.icons8.com/fluency/200/microphone.png" alt="Music/Audio"/>
+           <img src="https://img.icons8.com/fluency/200/microphone.png" width="150" alt="Music/Audio"/>
            <br><b>Music & Speech Analysis</b>
          </a>
        </td>
@@ -40,25 +40,25 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
      <tr>
        <td align="center">
          <a href="https://github.com/Aliarcher/Multi-Modal-Analysis">
-           <img src="https://img.icons8.com/fluency/200/combo-chart.png" width="200" alt="Multi Modal Analysis"/><br>
+           <img src="https://img.icons8.com/fluency/200/combo-chart.png" width="150" alt="Multi Modal Analysis"/><br>
            <br><b>Multi Modal Analysis</b>
          </a>
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/Reinforcement-Learning">
-           <img src="https://ibepyprogrammer.com/content/images/2024/03/RL.png" width="200" alt="Reinforcement Learning"/><br>
+           <img src="https://ibepyprogrammer.com/content/images/2024/03/RL.png" width="150" alt="Reinforcement Learning"/><br>
            <br><b>Reinforcement Learning</b>
          </a>
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/Federation-Learning">
-           <img src="https://img.icons8.com/fluency/200/network.png" width="200" alt="Federation Learning"/><br>
+           <img src="https://img.icons8.com/fluency/200/network.png" width="150" alt="Federation Learning"/><br>
            <br><b>Federation Learning</b>
          </a>
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/System-2-In-AI">
-           <img src="https://img.icons8.com/fluency/200/brain.png" width="200" alt="System-2 in AI"/><br>
+           <img src="https://img.icons8.com/fluency/200/brain.png" width="150" alt="System-2 in AI"/><br>
            <br><b>System-2 in AI</b>
          </a>
        </td>
@@ -72,7 +72,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
       </td>
       <td align="center">
         <a href="https://github.com/Aliarcher/Financial-Analysis">
-          <img src="https://img.icons8.com/fluency/200/financial.png" width="150" alt="Financial Analysis"/><br>
+          <img src="https://img.freepik.com/premium-vector/stock-market-icon-vector-image-can-be-used-crisis-mangement_120816-194464.jpg" width="150" alt="Financial Analysis"/><br>
           <sub><b>Financial Analysis</b></sub>
         </a>
       </td>
