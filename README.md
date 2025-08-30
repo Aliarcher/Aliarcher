@@ -11,54 +11,16 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
  #### AI and Automation
    ##### Base:
    
-   <a href="https://github.com/user-attachments/assets/6b18536d-dd5c-4018-8983-8ffa6203d8fe" target="_blank" style="text-decoration:none;">
-     <div style="
-       display:inline-block;
-       width:220px;
-       margin:10px;
-       border-radius:12px;
-       overflow:hidden;
-       box-shadow:0 4px 10px rgba(0,0,0,0.15);
-       transition:transform 0.2s;
-     "
-       onmouseover="this.style.transform='scale(1.05)';"
-       onmouseout="this.style.transform='scale(1)';">
-       
-       <!-- Image -->
-       <img src="https://img.icons8.com/fluency/240/000000/artificial-intelligence.png" 
-            alt="Machine Learning" 
-            style="width:100%; height:140px; object-fit:cover;">
-       
-       <!-- Title -->
-       <div style="padding:12px; text-align:center; background:#fff;">
-         <b style="color:#222; font-size:16px;">Machine Learning</b>
-       </div>
-     </div>
-   </a>
+   <p align="center">
+     <a href="https://github.com/Aliarcher/Machine-learning">
+       <img src="https://img.icons8.com/fluency/240/artificial-intelligence.png" width="200" alt="Machine Learning"/>
+     </a>
+  
+     <a href="https://github.com/Aliarcher/Computer-Vision">
+       <img src="https://img.icons8.com/color/240/computer-vision.png" width="200" alt="Computer Vision"/>
+     </a>
+   </p>
    
-   <!-- Add more cards the same way -->
-   <a href="https://github.com/Aliarcher/Computer-Vision" target="_blank" style="text-decoration:none;">
-     <div style="
-       display:inline-block;
-       width:220px;
-       margin:10px;
-       border-radius:12px;
-       overflow:hidden;
-       box-shadow:0 4px 10px rgba(0,0,0,0.15);
-       transition:transform 0.2s;
-     "
-       onmouseover="this.style.transform='scale(1.05)';"
-       onmouseout="this.style.transform='scale(1)';">
-       
-       <img src="https://img.icons8.com/color/240/000000/computer-vision.png" 
-            alt="Computer Vision" 
-            style="width:100%; height:140px; object-fit:cover;">
-       
-       <div style="padding:12px; text-align:center; background:#fff;">
-         <b style="color:#222; font-size:16px;">Computer Vision</b>
-       </div>
-     </div>
-   </a>
    * [Machine Learning](https://github.com/Aliarcher/Machine-learning) 
    * [Computer Vision](https://github.com/Aliarcher/Computer-Vision) 
    * [Natural Language Processing](https://github.com/Aliarcher/Natural-Language-Processing) 
