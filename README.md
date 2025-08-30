@@ -46,7 +46,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/Reinforcement-Learning">
-           <img src="https://img.icons8.com/fluency/200/game-controller.png" width="120" alt="Reinforcement Learning"/><br>
+           <img src="https://ibepyprogrammer.com/content/images/2024/03/RL.png" width="120" alt="Reinforcement Learning"/><br>
            <sub><b>Reinforcement Learning</b></sub>
          </a>
        </td>
