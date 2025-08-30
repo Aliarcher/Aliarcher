@@ -40,26 +40,26 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
      <tr>
        <td align="center">
          <a href="https://github.com/Aliarcher/Multi-Modal-Analysis">
-           <img src="https://img.icons8.com/fluency/200/combo-chart.png" width="120" alt="Multi Modal Analysis"/><br>
-           <sub><b>Multi Modal Analysis</b></sub>
+           <img src="https://img.icons8.com/fluency/200/combo-chart.png" width="200" alt="Multi Modal Analysis"/><br>
+           <br><b>Multi Modal Analysis</b>
          </a>
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/Reinforcement-Learning">
-           <img src="https://ibepyprogrammer.com/content/images/2024/03/RL.png" width="120" alt="Reinforcement Learning"/><br>
-           <sub><b>Reinforcement Learning</b></sub>
+           <img src="https://ibepyprogrammer.com/content/images/2024/03/RL.png" width="200" alt="Reinforcement Learning"/><br>
+           <br><b>Reinforcement Learning</b>
          </a>
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/Federation-Learning">
-           <img src="https://img.icons8.com/fluency/200/network.png" width="120" alt="Federation Learning"/><br>
-           <sub><b>Federation Learning</b></sub>
+           <img src="https://img.icons8.com/fluency/200/network.png" width="200" alt="Federation Learning"/><br>
+           <br><b>Federation Learning</b>
          </a>
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/System-2-In-AI">
-           <img src="https://img.icons8.com/fluency/200/brain.png" width="120" alt="System-2 in AI"/><br>
-           <sub><b>System-2 in AI</b></sub>
+           <img src="https://img.icons8.com/fluency/200/brain.png" width="200" alt="System-2 in AI"/><br>
+           <br><b>System-2 in AI</b>
          </a>
        </td>
     </tr>
