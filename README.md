@@ -64,6 +64,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
        </td>
     </tr>
    </table>
+
    ##### Usecases:    
    * [Medical Analysis](https://github.com/Aliarcher/Medical-Analysis) (Under Development)
    * [Financial Analysis](https://github.com/Aliarcher/Financial-Analysis) (Under Development)
