@@ -37,6 +37,32 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
          </a>
        </td>
      </tr>
+     <tr>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Multi-Modal-Analysis">
+           <img src="https://img.icons8.com/fluency/200/combo-chart.png" width="120" alt="Multi Modal Analysis"/><br>
+           <sub><b>Multi Modal Analysis</b></sub>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Reinforcement-Learning">
+           <img src="https://img.icons8.com/fluency/200/game-controller.png" width="120" alt="Reinforcement Learning"/><br>
+           <sub><b>Reinforcement Learning</b></sub>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Federation-Learning">
+           <img src="https://img.icons8.com/fluency/200/network.png" width="120" alt="Federation Learning"/><br>
+           <sub><b>Federation Learning</b></sub>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/System-2-In-AI">
+           <img src="https://img.icons8.com/fluency/200/brain.png" width="120" alt="System-2 in AI"/><br>
+           <sub><b>System-2 in AI</b></sub>
+         </a>
+       </td>
+    </tr>
    </table>
    
    * [Machine Learning](https://github.com/Aliarcher/Machine-learning) 
