@@ -66,7 +66,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
     <tr>
       <td align="center">
         <a href="https://github.com/Aliarcher/Medical-Analysis">
-          <img src="https://img.icons8.com/fluency/200/hospital-room.png" width="150" alt="Medical Analysis"/><br>
+          <img src="https://cdn-icons-png.flaticon.com/512/7054/7054227.png" width="150" alt="Medical Analysis"/><br>
           <sub><b>Medical Analysis</b></sub>
         </a>
       </td>
