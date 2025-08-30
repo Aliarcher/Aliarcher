@@ -107,6 +107,60 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
    
  #### Software Engineering
    ##### Backend:
+   <table>
+     <!-- Backend Base Header -->
+     <tr>
+       <th colspan="4" align="center" style="text-align:center; font-size:16px;">Base</th>
+     </tr>
+     <tr>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Data-Structure-Algorithm-Design">
+           <img src="https://img.icons8.com/fluency/200/code-file.png" width="150" alt="Data Structure & Algorithms"/><br>
+           <b>Data Structure & Algorithms</b>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Design-Patterns">
+           <img src="https://img.icons8.com/fluency/200/design-patterns.png" width="150" alt="Design Patterns"/><br>
+           <b>Design Patterns</b>
+         </a>
+       </td>
+       <td align="center">
+         <!-- Placeholder for future Base -->
+       </td>
+       <td align="center">
+         <!-- Placeholder for future Base -->
+       </td>
+     </tr>
+   
+     <!-- Backend Usecases Header -->
+     <tr>
+       <th colspan="4" align="center" style="text-align:center; font-size:16px;">Usecases</th>
+     </tr>
+     <tr>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Authentication-Authorization">
+           <img src="https://img.icons8.com/fluency/200/key.png" width="150" alt="Authentication & Authorization"/><br>
+           <b>Authentication & Authorization</b>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Applications">
+           <img src="https://img.icons8.com/fluency/200/user-group-man-man.png" width="150" alt="Employee CRUD"/><br>
+           <b>Employee CRUD App</b>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Travel-ticket-online-purchase-system">
+           <img src="https://img.icons8.com/fluency/200/ticket.png" width="150" alt="Travel Ticket System"/><br>
+           <b>Travel Ticket App</b>
+         </a>
+       </td>
+       <td align="center">
+         <!-- Placeholder for future Usecase -->
+       </td>
+     </tr>
+   </table>
    Base:
    * [Data Structure and Algorithm Design](https://github.com/Aliarcher/Data-Structure-Algorithm-Design) (Under Development)
    * [Design Patterns](https://github.com/Aliarcher/Design-Patterns)
