@@ -158,19 +158,34 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
          <!-- Placeholder for future Usecase -->
        </td>
      </tr>
+     <tr>
+       <th colspan="4" align="center" style="text-align:center; font-size:16px;">Web Games</th>
+     </tr>
+         <tr>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Snake-2D-Game/tree/main">
+           <img src="https://thumbs.dreamstime.com/b/mobile-389123316.jpg" width="150" alt="Snake 2D Game"/><br>
+           <b>Snake 2D Game</b>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Forked-Slingshot-2D-Game">
+           <img src="https://metrogradegoods.com/wp-content/uploads/2015/10/IMG_4485-scaled.jpg" width="150" alt="Forked Slingshot 2D Game"/><br>
+           <b>Forked Slingshot 2D Game</b>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Travel-ticket-online-purchase-system">
+           <img src="https://img.icons8.com/fluency/200/ticket.png" width="150" alt="Travel Ticket System"/><br>
+           <b>Travel Ticket App</b>
+         </a>
+       </td>
+       <td align="center">
+         <!-- Placeholder for future Usecase -->
+       </td>
+     </tr>
    </table>
 
-   
-   Base:
-   * [Data Structure and Algorithm Design](https://github.com/Aliarcher/Data-Structure-Algorithm-Design) (Under Development)
-   * [Design Patterns](https://github.com/Aliarcher/Design-Patterns)
-   * ...
-   * 
-   Usecases:
-   * [Authentication-Authorization](https://github.com/Aliarcher/Authentication-Authorization) 
-   * [Employee Crud Application](https://github.com/Aliarcher/Applications) (Under Development)
-   * [Travel-ticket-online-purchase Application](https://github.com/Aliarcher/Travel-ticket-online-purchase-system)
-   * ...
    ##### Frontend:
    * [Text-Timer](https://github.com/Aliarcher/Text-Timer)
    * [Snake-2D-Game](https://github.com/Aliarcher/Snake-2D-Game/tree/main)
