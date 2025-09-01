@@ -121,7 +121,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/Design-Patterns">
-           <img src="https://miro.medium.com/v2/da:true/resize:fit:800/0*tVerHf4MknjC4XiD" width="150" alt="Design Patterns"/><br>
+           <img src="https://bgasparotto.com/wp-content/uploads/2016/11/design-patterns-logo-2.png" width="150" alt="Design Patterns"/><br>
            <b>Design Patterns</b>
          </a>
        </td>
