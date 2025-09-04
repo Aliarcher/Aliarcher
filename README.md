@@ -161,7 +161,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
      <tr>
        <th colspan="4" align="center" style="text-align:center; font-size:16px;">Web Games</th>
      </tr>
-         <tr>
+     <tr>
        <td align="center">
          <a href="https://github.com/Aliarcher/Snake-2D-Game/tree/main">
            <img src="https://thumbs.dreamstime.com/b/mobile-389123316.jpg" width="150" alt="Snake 2D Game"/><br>
@@ -187,6 +187,32 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
          </a>
        </td>
      </tr>
+     <tr>
+      <td align="center">
+         <a href="https://github.com/Aliarcher/whack-a-mole-2D-Game">
+           <img src="https://github.com/user-attachments/assets/92cff6e7-e54d-4a57-a954-f9a84266eed9" alt="Breakout 2D" style="width:150px;height:150px;"><br>
+           <b>Whack A Mole 2D Game</b>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/memmory-wall-2D-Game">
+           <img src="https://github.com/user-attachments/assets/255b7071-3e72-4e55-8542-faf775103657" alt="Memmory wall 2D" style="width:150px;height:150px;"><br>
+           <b>Memmory wall 2D Game</b>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/Sonic-Runner">
+           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8M3-Tjk8nPpPgn7OFBfLJR1pPguoVgoi4xQ&s" alt="Sonic Runner 2D" style="width:150px;height:150px;"><br>
+           <b>Sonic Runner</b>
+         </a>
+       </td>
+       <td align="center">
+         <a href="https://github.com/Aliarcher/pizza-builder-2D-Game">
+           <img src="https://img.itch.zone/aW1nLzQ5MjM3MTIucG5n/315x250%23c/IiDZDL.png" alt="Pizza builder 2D Game" style="width:150px;height:150px;"><br>
+           <b>Pizza builder 2D Game</b>
+         </a>
+       </td>
+     </tr> 
    </table>
 
    ##### Frontend:
