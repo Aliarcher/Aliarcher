@@ -176,7 +176,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
        </td>
        <td align="center">
          <a href="https://github.com/Aliarcher/breakout-2D-game">
-           <img src="https://cdn-images-1.medium.com/v2/resize:fit:800/1*uZnZD8xTmf0fxKqBpMhtfg.gif" alt="Breakout 2D" style="width:150px;height:150px;"><br>
+           <img src="https://github.com/user-attachments/assets/7198f9c6-166e-4d56-a620-278b93781ddc" alt="Breakout 2D" style="width:150px;height:150px;"><br>
            <b>Breakout 2D Game</b>
          </a>
        </td>
