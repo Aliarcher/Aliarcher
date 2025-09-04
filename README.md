@@ -217,14 +217,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 
    ##### Frontend:
    * [Text-Timer](https://github.com/Aliarcher/Text-Timer)
-   * [Snake-2D-Game](https://github.com/Aliarcher/Snake-2D-Game/tree/main)
-   * [Forked-Slingshot-2D-Game](https://github.com/Aliarcher/Forked-Slingshot-2D-Game)
-   * [Breakout-2D-Game](https://github.com/Aliarcher/breakout-2D-game)
-   * [Mario-2D-Game](https://github.com/Aliarcher/Mario-2D-Game)
-   * [Whack-A-Mole-2D-Game](https://github.com/Aliarcher/whack-a-mole-2D-Game)
-   * [memmory-wall-2D-Game](https://github.com/Aliarcher/memmory-wall-2D-Game)
-   * [pizza-builder-2D-Game](https://github.com/Aliarcher/pizza-builder-2D-Game)
-   * [Sonic-Runner](https://github.com/Aliarcher/Sonic-Runner)
+     
 #### DevOps and MLOps
    ##### Linux:
    * [Linux Notes](https://github.com/Aliarcher/Linux-LPIC-Notes)
