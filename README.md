@@ -181,7 +181,10 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
          </a>
        </td>
        <td align="center">
-         <!-- Placeholder for future Usecase -->
+         <a href="https://github.com/Aliarcher/Mario-2D-Game">
+           <img src="https://static.wikia.nocookie.net/fantendo/images/7/7e/Mariosmb3.png/revision/latest?cb=20180801195756" alt="Breakout 2D" style="width:150px;height:150px;"><br>
+           <b>Mario 2D Game</b>
+         </a>
        </td>
      </tr>
    </table>
