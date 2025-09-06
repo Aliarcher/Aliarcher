@@ -9,6 +9,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 
 
  #### AI and Automation
+ 
    <style>
      .zoom img {
        transition: transform 0.3s ease;
@@ -17,6 +18,7 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
        transform: scale(1.1);
      }
    </style>
+   
    <table>
      <tr>
         <th colspan="4" align="center" style="text-align:center; font-size:16px;">Base</th>
