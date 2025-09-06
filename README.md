@@ -23,28 +23,40 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
      <tr>
         <th colspan="4" align="center" style="text-align:center; font-size:16px;">Base</th>
      </tr>
-     <tr>
-       <td align="center" class="zoom">
+       <tr>
+       <td align="center">
          <a href="https://github.com/Aliarcher/Machine-learning">
-           <img src="https://img.icons8.com/fluency/200/artificial-intelligence.png" width="150" alt="Machine Learning"/>
+           <img src="https://img.icons8.com/fluency/200/artificial-intelligence.png" width="150" alt="Machine Learning"
+                style="transition: transform 0.3s ease;" 
+                onmouseover="this.style.transform='scale(1.1)';" 
+                onmouseout="this.style.transform='scale(1)';"/>
            <br><b>Machine Learning</b>
          </a>
        </td>
-       <td align="center" class="zoom">
+       <td align="center">
          <a href="https://github.com/Aliarcher/Computer-Vision">
-           <img src="https://static.vecteezy.com/system/resources/previews/023/752/816/non_2x/computer-vision-icon-in-illustration-vector.jpg" width="150" alt="Computer Vision"/>
+           <img src="https://static.vecteezy.com/system/resources/previews/023/752/816/non_2x/computer-vision-icon-in-illustration-vector.jpg" width="150" alt="Computer Vision"
+                style="transition: transform 0.3s ease;" 
+                onmouseover="this.style.transform='scale(1.1)';" 
+                onmouseout="this.style.transform='scale(1)';"/>
            <br><b>Computer Vision</b>
          </a>
        </td>
-       <td align="center" class="zoom">
+       <td align="center">
          <a href="https://github.com/Aliarcher/Natural-Language-Processing">
-           <img src="https://img.icons8.com/fluency/200/chatbot.png" width="150" alt="NLP"/>
+           <img src="https://img.icons8.com/fluency/200/chatbot.png" width="150" alt="NLP"
+                style="transition: transform 0.3s ease;" 
+                onmouseover="this.style.transform='scale(1.1)';" 
+                onmouseout="this.style.transform='scale(1)';"/>
            <br><b>Natural Language Processing</b>
          </a>
        </td>
-       <td align="center" class="zoom">
+       <td align="center">
          <a href="https://github.com/Aliarcher/Music-Audio-Speech-Analysis">
-           <img src="https://img.icons8.com/fluency/200/microphone.png" width="150" alt="Music/Audio"/>
+           <img src="https://img.icons8.com/fluency/200/microphone.png" width="150" alt="Music/Audio"
+                style="transition: transform 0.3s ease;" 
+                onmouseover="this.style.transform='scale(1.1)';" 
+                onmouseout="this.style.transform='scale(1)';"/>
            <br><b>Music & Speech Analysis</b>
          </a>
        </td>
