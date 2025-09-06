@@ -9,31 +9,38 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 
 
  #### AI and Automation
-
+   <style>
+     .zoom img {
+       transition: transform 0.3s ease;
+     }
+     .zoom:hover img {
+       transform: scale(1.1);
+     }
+   </style>
    <table>
      <tr>
         <th colspan="4" align="center" style="text-align:center; font-size:16px;">Base</th>
      </tr>
      <tr>
-       <td align="center">
+       <td align="center" class="zoom">
          <a href="https://github.com/Aliarcher/Machine-learning">
            <img src="https://img.icons8.com/fluency/200/artificial-intelligence.png" width="150" alt="Machine Learning"/>
            <br><b>Machine Learning</b>
          </a>
        </td>
-       <td align="center">
+       <td align="center" class="zoom">
          <a href="https://github.com/Aliarcher/Computer-Vision">
            <img src="https://static.vecteezy.com/system/resources/previews/023/752/816/non_2x/computer-vision-icon-in-illustration-vector.jpg" width="150" alt="Computer Vision"/>
            <br><b>Computer Vision</b>
          </a>
        </td>
-       <td align="center">
+       <td align="center" class="zoom">
          <a href="https://github.com/Aliarcher/Natural-Language-Processing">
            <img src="https://img.icons8.com/fluency/200/chatbot.png" width="150" alt="NLP"/>
            <br><b>Natural Language Processing</b>
          </a>
        </td>
-       <td align="center">
+       <td align="center" class="zoom">
          <a href="https://github.com/Aliarcher/Music-Audio-Speech-Analysis">
            <img src="https://img.icons8.com/fluency/200/microphone.png" width="150" alt="Music/Audio"/>
            <br><b>Music & Speech Analysis</b>
@@ -41,25 +48,25 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
        </td>
      </tr>
      <tr>
-       <td align="center">
+       <td align="center" class="zoom">
          <a href="https://github.com/Aliarcher/Multi-Modal-Analysis">
            <img src="https://img.icons8.com/fluency/200/combo-chart.png" width="150" alt="Multi Modal Analysis"/><br>
            <br><b>Multi Modal Analysis</b>
          </a>
        </td>
-       <td align="center">
+       <td align="center" class="zoom">
          <a href="https://github.com/Aliarcher/Reinforcement-Learning">
            <img src="https://ibepyprogrammer.com/content/images/2024/03/RL.png" width="150" alt="Reinforcement Learning"/><br>
            <br><b>Reinforcement Learning</b>
          </a>
        </td>
-       <td align="center">
+       <td align="center" class="zoom">
          <a href="https://github.com/Aliarcher/Federation-Learning">
            <img src="https://img.icons8.com/fluency/200/network.png" width="150" alt="Federation Learning"/><br>
            <br><b>Federation Learning</b>
          </a>
        </td>
-       <td align="center">
+       <td align="center" class="zoom">
          <a href="https://github.com/Aliarcher/System-2-In-AI">
            <img src="https://img.icons8.com/fluency/200/brain.png" width="150" alt="System-2 in AI"/><br>
            <br><b>System-2 in AI</b>
