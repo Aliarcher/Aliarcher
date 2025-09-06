@@ -9,15 +9,6 @@ Experienced in AI R&D in Social Network Analysis, Bioinformatic , Java Applicati
 
 
  #### AI and Automation
- 
-   <style>
-     .zoom img {
-       transition: transform 0.3s ease;
-     }
-     .zoom:hover img {
-       transform: scale(1.1);
-     }
-   </style>
    
    <table>
      <tr>
